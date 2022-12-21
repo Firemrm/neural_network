@@ -1,6 +1,1 @@
-Project for ITSC 4156
-evaluate.py and __init__.py given needing no editing by lecturer Ben Pool.
-Other python files also given by lecturer Ben Pool but needed to be filed out files had methods made but no
-code inside the methods. This let the evaluate method work as intened once I had filed out how to training was 
-implimented and the hyperparameters used to tune the model. This project had made two nueral networks one to 
-predict the price of a house in boston and another to identify hand written digits. Both of these projects used MNIST data sets.
+Project for ITSC 4156 evaluate.py and init.py given needing no editing by lecturer Ben Pool. Other python files also given by lecturer Ben Pool but needed to be filed out files had methods made but no code inside the methods. This let the evaluate method work as intended once I had filed out how to training was implemented and the hyper-parameters used to tune the model. This project had made two neural networks one to predict the price of a house in Boston and another to identify hand written digits. Both of these projects used MNIST data sets.
